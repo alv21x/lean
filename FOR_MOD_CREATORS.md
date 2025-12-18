@@ -3,7 +3,16 @@
 For your mod to appear correctly in **Content Manager Lean**, it must include **two files in the root folder of the mod**.
 
 > When **distributing your mod**, these two files must **already be included and properly configured** in the mod root folder.
->
+
+## Folder Structure
+
+```
+MotoGP_2025_APRILIA_RSGP/
+├─ preview.png
+├─ metadata.json
+└─ paints/
+```
+
 > Lean can generate these files automatically for local use, but **for mod distribution**, they must be provided ready with the mod.
 
 ## Requirements
